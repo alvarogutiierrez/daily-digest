@@ -1,0 +1,23 @@
+{
+  "title": "Digest Diario",
+  "browse": {
+    "format": "json",
+    "url": "https://raw.githubusercontent.com/alvarogutiierrez/daily-digest/main/catalog.json",
+    "method": "GET",
+    "items": "items",
+    "fields": {
+      "title": "title",
+      "url": "url",
+      "id": "id"
+    },
+    "page_size": 10
+  },
+  "download": {
+    "url": "{url}",
+    "dest_dir": "/Noticias",
+    "filename": "{title}.epub"
+  },
+  "description": "Digest diario de noticias en EPUB. Una noticia por capítulo.",
+  "author": "alvarogutiierrez",
+  "version": "1.0.0"
+}

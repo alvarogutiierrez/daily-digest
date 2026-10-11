@@ -1,0 +1,7 @@
+{
+  "title": "Digest Diario",
+  "mount": "side",
+  "description": "Descarga el digest diario de noticias en EPUB al comprobar el catálogo.",
+  "author": "alvarogutiierrez",
+  "version": "1.0.0"
+}
