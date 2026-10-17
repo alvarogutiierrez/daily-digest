@@ -2,21 +2,26 @@
  "items": [
   {
    "id": "digest0",
+   "title": "17-10-2026",
+   "url": "https://raw.githubusercontent.com/alvarogutiierrez/daily-digest/main/Digest_Diario_17-10-2026.epub"
+  },
+  {
+   "id": "digest1",
    "title": "15-10-2026",
    "url": "https://raw.githubusercontent.com/alvarogutiierrez/daily-digest/main/Digest_Diario_15-10-2026.epub"
   },
   {
-   "id": "digest1",
+   "id": "digest2",
    "title": "13-10-2026",
    "url": "https://raw.githubusercontent.com/alvarogutiierrez/daily-digest/main/Digest_Diario_13-10-2026.epub"
   },
   {
-   "id": "digest2",
+   "id": "digest3",
    "title": "12-10-2026",
    "url": "https://raw.githubusercontent.com/alvarogutiierrez/daily-digest/main/Digest_Diario_12-10-2026.epub"
   },
   {
-   "id": "digest3",
+   "id": "digest4",
    "title": "11-10-2026",
    "url": "https://raw.githubusercontent.com/alvarogutiierrez/daily-digest/main/Digest_Diario_11-10-2026.epub"
   }
